@@ -5,8 +5,8 @@
 ### - Landsat
 
 **数据简介**: landsat是有USGS(美国地质勘探局)和NASA(美国宇航局)共同发起的对地观测项目，自1972年起，已连续发射Landsat1~9等8颗对地观测卫星(Landsat6失败)。
-各个卫星的数据时间范围: Landsat1-5 MSS(1972~1999), Landsat4(1982-1993), Landsat5(1984–2012),Landsat7(1999-至今),Landsat8(2013-Present)。
-Landsat9于2021年9月27日发射升空, 数据预计在2022年初对外发布.
+各个卫星的数据时间范围: Landsat1-5 MSS(1972-1999), Landsat4(1982-1993), Landsat5(1984-2012),Landsat7(1999-至今),Landsat8(2013-Present)。
+Landsat9于2021年9月27日发射升空, 数据预计在2022年初对外发布。
 
 **访问地址**:
 - [官方地址](https://earthexplorer.usgs.gov): 实时更新, 但速度慢, 且可能需要翻墙
